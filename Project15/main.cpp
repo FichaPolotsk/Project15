@@ -7,13 +7,10 @@ int main() {
 	if (choose == 1 and choose == 2) {
 		std::cin >> choose;
 	}
-	else if (choose == 1) {
-		std::cout << "2";
-	}
 	else {
 		std::cout << "1";
 	}
-
+	//Проверка
 
 
 }
