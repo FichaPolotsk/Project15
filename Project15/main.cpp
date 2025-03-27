@@ -10,7 +10,6 @@ int main() {
 	else {
 		std::cout << "1";
 	}
-	//Проверка
-
+	std::cout << "123";
 
 }
